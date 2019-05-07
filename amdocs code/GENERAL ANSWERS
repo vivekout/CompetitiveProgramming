@@ -1,0 +1,12 @@
+Which file holds system startup error messages? - 
+    /var/log/boot.msg
+How can you get information about the system memory? Which command will display that information? - 
+    cat /proc/meminfo
+You have created a backup script and would like it to be executed periodically. Choose the command which will allow you to do so.
+    crontab -e
+When you define a crontab job in Linux what does the following line means (from left to right)?
+    Minute, Hours, Day, Month, Day of the week
+The area of a circle 64 pi. What is the diameter of the circle?
+    8
+A person runs 600 meters in 5 minutes. What is his speed in km per hour?
+    7.2
